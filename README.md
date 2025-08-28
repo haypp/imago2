@@ -5,4 +5,4 @@
    python app.py
    ```
 
-test_function.php for testing function just work
+test_function.py for testing function just work
